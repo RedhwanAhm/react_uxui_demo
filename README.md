@@ -1,2 +1,2 @@
-# react_uxui_demo
+# React UX/UI Website Demo
 JSX dreamz
